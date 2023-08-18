@@ -2,6 +2,7 @@
 This is an innovation project put fourth by Maersk. Maersk is a shipping container company who contribute to transporting 80% of the worlds goods.
 With shipping being the cheapest and most used method for transporting goods across the atlantic, it is unfortuantely also a huge target for ilegal smugling.
 There are many things being smugled in containers, but one of the most impactful things is cocaine. This innovation project concludes with a functional prototype that detects tamperings using lights.
+This project used the double diamond and the innovative mindset as the foundational design process.
 
 __Demonstration below__
 
